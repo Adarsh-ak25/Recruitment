@@ -154,3 +154,10 @@ https://github.com/Adarsh-ak25/Recruitment
 ## Author
 
 **Adarsh Krishna**
+---
+
+## Workflow Diagram
+
+The following diagram shows how the application works:
+
+![Workflow Diagram](screenshots/workflow.png)
